@@ -23,6 +23,7 @@ DCLDR/
 
 
 ## 📁 Environment Setup
+```bash
 This project was developed and tested under the following environment:
 
 🔧 System & Runtime
