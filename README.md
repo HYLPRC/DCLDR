@@ -58,7 +58,6 @@ This project was developed and tested under the following environment:
 | `networkx`       | 3.1      | Graph operations (used in preprocessing)         |
 | `pyvis`          | 0.3.2    | Graph visualization in browsers and notebooks    |
 | `tensorboard`    | 2.14.0   | Training visualization support                   |
-| `gpustat`        | 1.1.1    | Lightweight GPU monitoring                       |
 
 ---
 
