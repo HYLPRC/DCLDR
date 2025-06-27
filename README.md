@@ -21,7 +21,7 @@ DCLDR/
 ├── model/                   # Model architecture
 ├── utils/                   # Utilities: metrics, losses, etc.
 ├── main.py                  # Training and evaluation pipeline
-├── config.py                # Hyperparameters and settings
+├── dataload.py              # Data load
 └── README.md                # You are here
 ```
 
