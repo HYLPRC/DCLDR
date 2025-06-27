@@ -19,7 +19,7 @@ Drug repositioning aims to find new therapeutic uses for existing drugs. In this
 DCLDR/
 ├── data/                    # Raw and processed datasets
 ├── model/                   # Model architecture
-├── utils/                   # Utilities: metrics, losses, etc.
+├── utils.py                 # Utilities: metrics, losses, etc.
 ├── main.py                  # Training and evaluation pipeline
 ├── dataload.py              # Data load
 └── README.md                # You are here
