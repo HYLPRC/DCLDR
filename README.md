@@ -62,24 +62,4 @@ This project was developed and tested under the following environment:
 
 ---
 
-### 💡 Reproducibility Tip
-
-To export your current environment:
-
-```bash
-pip freeze > requirements.txt
-# or (if using conda)
-conda env export > environment.yml
-```
-
-To recreate the environment later:
-
-```bash
-pip install -r requirements.txt
-# or
-conda env create -f environment.yml
-```
-
----
-
 
