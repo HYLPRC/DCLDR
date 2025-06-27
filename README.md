@@ -61,4 +61,18 @@ This project was developed and tested under the following environment:
 
 ---
 
+## 🧪 How to Run
+
+To start training and evaluation, simply run:
+
+```bash
+python main.py
+```
+
+Make sure the environment is set correctly.
+
+---
+
+---
+
 
