@@ -82,18 +82,4 @@ conda env create -f environment.yml
 
 ---
 
-## 🌐 Citation
 
-Coming soon after publication...
-
----
-
-## 🌟 Acknowledgements
-
-This research was supported by [your institution/funding source].
-
----
-
-## 🚀 License
-
-MIT License. See [LICENSE](LICENSE) for more details.
